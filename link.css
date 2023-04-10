@@ -1,0 +1,18 @@
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: yellow;
+}
+
+#eat:hover {
+    transform: scale(10.5s);
+}
+
